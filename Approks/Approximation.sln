@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Approximation", "Approximation.csproj", "{9CBF55F1-195B-4B67-8722-C1D97E2DB37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBF55F1-195B-4B67-8722-C1D97E2DB37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBF55F1-195B-4B67-8722-C1D97E2DB37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBF55F1-195B-4B67-8722-C1D97E2DB37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBF55F1-195B-4B67-8722-C1D97E2DB37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12CBDEC-11C2-48DA-8FBC-02B86B5F13CE}
+	EndGlobalSection
+EndGlobal
